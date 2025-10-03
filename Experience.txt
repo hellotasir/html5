@@ -1,0 +1,6 @@
+1. What is HTML, Syntax, and Internal/External Links
+2. Opening/Closing Tag
+3. File Types in HTML
+4. Html Document Structure
+5. What is Nesting/Indenting in HTML
+6.
