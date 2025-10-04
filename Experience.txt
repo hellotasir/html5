@@ -3,4 +3,6 @@
 3. File Types in HTML
 4. Html Document Structure
 5. What is Nesting/Indenting in HTML
-6.
+6. Html Tricks : h3*3
+7. Html Text elements - > Heading, Paragraph, Lists(Order/Unordered/Nested), Comments (Notes to Self / Documentation)
+8. Chrome Dev Tools
